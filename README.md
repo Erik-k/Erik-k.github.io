@@ -1,4 +1,4 @@
 BeagleboneWebpage
 =================
 
-The webpage hosted by my Beaglebone A6
+The webpage hosted by my Beaglebone Black 

@@ -10,7 +10,7 @@ var port = 1333;
 
 // Create data to be displayed
 var output = b.readTextFile('/home/root/humidityAndTemp_readings/2013_Nov_16_Sat.txt');
-var body = 'Hello Beacon8!\nCurrent humidity and temp:\n' + output + 
+var body = 'Hello World!\nCurrent humidity and temp:\n' + output + 
     'More data:\n';
 
 // Create the web server
